@@ -1,1 +1,2 @@
 db properties
+incresing new connection time out
